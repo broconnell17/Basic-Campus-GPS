@@ -1,2 +1,2 @@
 # Basic-GPS
-Takes inputs from students and gives directions to where they need to go
+This is a basic project, but I plan on expanding it in the future. As of right now it is a basic GPS like program, that has limited locational inputs, but gives dircetions from one place to another. There are a few other minor functions within it, such as a basic calculations function, as well as telling you whether you are a feshman, sophmore, etc. based on semester account and adds up your total credits.
